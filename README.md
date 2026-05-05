@@ -90,8 +90,7 @@ An example mod list file is included in the repository.
 
 All original credit goes to [Wedsels](https://github.com/Wedsels), the author of the original NexusModsModDownloader.
 
-This fork was developed with the assistance of Claude (Anthropic) and GitHub Copilot.
-Basically it entirely Vibe-Coded
+This fork was developed with the assistance of Claude (Anthropic) and GitHub Copilot. Basically it is entirely Vibe-Coded
 
 ---
 
